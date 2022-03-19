@@ -1,0 +1,3 @@
+To create an application:
+    python3 manage.py startapp base
+
